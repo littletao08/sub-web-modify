@@ -481,6 +481,7 @@ export default {
           subconverter作者提供: "https://sub.xeton.dev",
           "sub-web作者提供": "https://api.wcc.best",
           "sub作者&lhie1提供": "https://api.dler.io",
+          "vless自建": "http://140.245.59.108:35500",
         },
         backendOptions: [
           {value: "https://url.v1.mk"},
@@ -490,6 +491,7 @@ export default {
           {value: "https://sub.xeton.dev"},
           {value: "https://api.wcc.best"},
           {value: "https://api.dler.io"},
+          {value: "http://140.245.59.108:35500"},
         ],
         remoteConfig: [
           {
