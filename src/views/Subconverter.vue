@@ -482,6 +482,7 @@ export default {
           "sub-web作者提供": "https://api.wcc.best",
           "sub作者&lhie1提供": "https://api.dler.io",
           "vless自建": "http://140.245.59.108:35500",
+          "hy2自建": "http://140.245.59.108:35501",
         },
         backendOptions: [
           {value: "https://url.v1.mk"},
@@ -492,6 +493,7 @@ export default {
           {value: "https://api.wcc.best"},
           {value: "https://api.dler.io"},
           {value: "http://140.245.59.108:35500"},
+          {value: "http://140.245.59.108:35501"},
         ],
         remoteConfig: [
           {
